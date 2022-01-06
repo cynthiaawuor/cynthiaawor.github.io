@@ -5,10 +5,12 @@
 Aspiring backend developer
 
 ### Studies and Achievements
-Undergraduate Bsc. Mathematics and ComputerScience
-Award winner for the Technovation 2017 Summit with my Team- The Restorers
-Techonavtion alumnus and mentor
-Certified entrepreneuor from the Sinapis Launchpad program
+<ol>
+  <li>Undergraduate Bsc. Mathematics and ComputerScience</li>
+  <li>Award winner for the Technovation 2017 Summit with my Team- The Restorers</li>
+  <li>Techonavtion alumnus and mentor</li>
+  <li>Certified entrepreneuor from the Sinapis Launchpad program</li>
+</ol> 
 
 ### goals
 Determined to learn javascript and advance my skills i elixir language
