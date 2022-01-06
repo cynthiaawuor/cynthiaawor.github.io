@@ -16,8 +16,10 @@ Determined to learn javascript and advance my skills i elixir language
 and be able to solve some of the daily problems. 
 
 ### Skills $ Hobbies
-Can use html,css to build a website
-Love playing volleyball
+<ol>
+  <li>Can use html,css to build a website</li>
+  <li>Love playing volleyball</li>
+</ol>
 
 ### Contact
 Let's connect [LinkedIn](https://www.linkedin.com/in/cynthia-o-466806140/)
